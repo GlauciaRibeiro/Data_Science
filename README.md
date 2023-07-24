@@ -19,7 +19,7 @@ Sou uma Cientista de Dados em construção, aqui você irá encontrar um pouco d
 
 **Analise de Dados**
 * **Analisando os Dados do AirBnB Lisboa:** https://bit.ly/3Qb0ZhA
-* **Analisando a criminalidade do Rio de Janeiro:** 
+* **Analisando a criminalidade do Rio de Janeiro (2020):** https://bit.ly/4754Cvq
 * **Detecção de Fraudes do Cartão de Crédito:** 
 
  ## Dashboards em Power BI:
