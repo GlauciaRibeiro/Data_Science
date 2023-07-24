@@ -18,7 +18,7 @@ Sou uma Cientista de Dados em construção, aqui você irá encontrar um pouco d
 ## Projetos:
 
 **Analise de Dados**
-* **Analisando os Dados do AirBnB Lisboa:** 
+* **Analisando os Dados do AirBnB Lisboa:** http://bit.ly/3KcFJnX
 * **Analisando a criminalidade do Rio de Janeiro:** 
 * **Detecção de Fraudes do Cartão de Crédito:** 
 
