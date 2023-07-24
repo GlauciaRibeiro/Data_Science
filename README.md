@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Banner Gláucia.png" >
-</p>
 
 # Gláucia Ribeiro
 <sub>*Cientista de Dados*</sub>
